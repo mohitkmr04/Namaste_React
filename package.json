@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.1.3",
+    "react-dom": "^18.x.x",
+    "react": "^18.x.x"
+  },
+  "name": "cgdgdd",
+  "version": "1.0.0",
+  "description": "This is Namaste-React",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "Namaste",
+    "React"
+  ],
+  "author": "Mohit",
+  "license": "ISC",
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
