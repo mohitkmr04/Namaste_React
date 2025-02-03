@@ -2,7 +2,7 @@ import {CDN_URL} from "../utils/constants.js";
 
 const RestaurantCard = ({resData}) => {
 
-    const {cloudinaryImageId,name,avgRating,cuisines,costForTwo,deliveryTime} = resData;
+    const {cloudinaryImageId,name,avgRating,cuisines,costForTwo,deliveryTime} = resData.info;
 
     return (
         <div className="res-card" style={{backgroundColor: "#f0f0f0"}}>
